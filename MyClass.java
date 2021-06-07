@@ -12,5 +12,6 @@ class MyClass {
 
     sum = x + y;  // Calculate the sum of x + y
     System.out.println("Hi Sumit"); // Print the sum
+    Hi sumit wssup;
   }
 } 
